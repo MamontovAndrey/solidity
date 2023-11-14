@@ -21,3 +21,5 @@ indent_size = 4
 [*.{txt,cmake,json}]
 indent_style = tab
 indent_size = 4
+
+
